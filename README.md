@@ -95,21 +95,22 @@ pip install -r requirements.txt
 streamlit run lang_translation.py
 
 # WEB API 
+<img width="1015" alt="image" src="https://github.com/user-attachments/assets/7c7c7212-ec98-452f-b4ed-e6e9615e4d00">
 
-![alt text](image.png)
 
 ### Enter the text and press ctrl + Enter 
 
-![alt text](image-1.png)
+<img width="946" alt="image-1" src="https://github.com/user-attachments/assets/77c51662-1d89-4f1c-9742-b9d3057ed4a5">
+
 
 #### Select the language and you will get translation as well as audio too 
 
-![alt text](image-2.png)
-
+<img width="930" alt="image-2" src="https://github.com/user-attachments/assets/291045ac-1d51-4306-b4b8-91cc0f4f9855">
 
 # Project Structure
 
-![alt text](image-3.png)
+<img width="503" alt="image-3" src="https://github.com/user-attachments/assets/7d6060fd-386f-4b53-b892-b0a809a53399">
+
 
 
 ### Explanation:
