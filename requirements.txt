@@ -1,0 +1,4 @@
+mtranslate
+gtts
+streamlit
+pandas 
