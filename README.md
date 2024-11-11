@@ -72,7 +72,7 @@ The approach to building this project involves several stages:
 ### Prerequisites
 
 Ensure that you have the following installed:
-- **Python 3.x**: This project requires Python 3.6 or higher.
+- **Python 3.10: This project requires Python 3.10 or higher.
 - **pip**: Python's package installer.
 
 ### Step-by-Step Installation
