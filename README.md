@@ -78,9 +78,9 @@ Ensure that you have the following installed:
 ### Step-by-Step Installation
 
 1. Clone the repository:
-github link: 
+2. lang_translation.py : https://github.com/TVsony/Multiple-Language-Translator-Audio-Generator/blob/main/lang_translation.py
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
 
 conda create -p venv python==3.10 -y
 
